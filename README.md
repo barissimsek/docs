@@ -82,5 +82,5 @@
 
        Gerçeğin ortaya çıkmasında kaybeden önemli bir paya sahiptir.
 
-- 5.c) Tartışmayı kaybeden yanlış bir fikirden kurtulduğu ve doğruyu öğrendiği için sevinir.
+- 6.c) Tartışmayı kaybeden yanlış bir fikirden kurtulduğu ve doğruyu öğrendiği için sevinir.
 
