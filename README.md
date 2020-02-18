@@ -2,7 +2,7 @@
 
 - 1.a) Tartışma konusu açık bir şekilde iki tarafça ilan edilmeden tartışma başlamaz.
 
-       Neyi tartıştığımızı bilelim.
+       Neyi tartıştığımızı bilelim. İki tarafın da aynı şeyi tartıştığından emin olalım.
 
 - 1.b) Tartışma konusu basittir bileşik olamaz. Yani başka alt problemlere bölünemez.
 
@@ -20,7 +20,7 @@
 
 - 3.b) Tartışan kişiler her türlü harici yardımı gizli veya açık kullanabilirler.
 
-       Kopya çekmek serbesttir. Çünkü kimin daha iyi olduğunu değil neyin doğru olduğunu öğrenmeye çalışıyoruz. Bunun için de her iki tarafın eşit olmak kaydıyla bilgiye erişmeleri sınırlandırılmaz.
+       Kopya çekmek serbesttir. Çünkü kimin daha iyi olduğunu değil neyin doğru olduğunu öğrenmeye çalışıyoruz. Bunun için de her iki tarafın -bilgiye erişim imkanların eşit olmak kaydıyla- bilgiye erişmeleri sınırlandırılmaz.
 
 - 3.c) Tartışmada hiciv, mizah vs… kullanılabilir ancak tartışma sulandırılmaz.
 
@@ -28,7 +28,7 @@
 
 - 3.d) İddia sahibi iddiasını ispatla, gerekli referansları toplamakla kendi yükümlüdür.
 
-       Her iddia başlangıçta yanlış kabul edilir. Karşı tarafın, iddianın yanlış olduğunu ispat etmesi gerekmez. İddia sahibinin, iddiasının doğru olduğunu ispat etmesi gerekir.
+       Her iddia başlangıçta yanlış kabul edilir. Karşı tarafın iddianın yanlış olduğunu ispat etmesi gerekmez. İddia sahibinin iddiasının doğru olduğunu ispat etmesi gerekir.
 
 - 3.e) Referansı olmayan bilgiler yok hükmündedir.
 
@@ -36,15 +36,15 @@
 
 - 3.f) Doğaları gereği ispat edilemez nitelikte olan bilgiler yok hükmündedir.
 
-       Menkıbeler, gaybi bilgiler, rüyalar vs...
+       Menkıbeler, gaybi bilgiler, rüyalar vs... delil olarak gösterilemez.
 
-- 3.g) Nakli bilimler (tarih, sosyoloji, fıkıh...) dışında meşhur olmuş veya toplumda çokça tekrarlanan bilgilerin doğru olduğu varsayılmaz, onlar da ispata tabidir.
+- 3.g) Meşhur olmuş veya toplumda çokça tekrarlanan bilgilerin doğru olduğu varsayılmaz, onlar da ispata tabidir.
 
-       Popüler bilginin doğru olduğu varsayılmaz. Örneğin yumurta kolestrole sebep oluyormuş gibi halk arasında veya TV'lerde sıkca tekrarlanan bilgiler.
+       Popüler bilginin doğru olduğu varsayılmaz, ilk kez duyuluyormuş gibi davranılır. Örneğin yumurta kolestrole sebep oluyormuş gibi halk arasında veya TV'lerde sıkca tekrarlanan bilgiler.
 
 - 3.h) İnançlar doğrudan tartışılmaz. İnançlara ait meseleler inanç bağlamından koparılarak tartışılır.
 
-       Çoğu inanç sisteminin mantıklı olmak gibi bir iddiası yoktur. Bu tür inançları mantıken tartışmanın bir anlamı da yoktur. Bazı inanç sistemlerinin akli olmak iddiası vardır. Bunları tartışırken inanç sistemi değil de önerdiği olgu tartışılır. Çünkü akli olduğu iddia edilse bile inananlar kalben inanır, aklen değil. Dolaysıyla inancını tartışmak ancak kalbini kırarak mümkün olacaktır. Böyle bir tartışma sağlıklı değildir. Örneğin İslam dini akli olduğunu iddia eder. İslam dini değil ancak örneğin evrenin yoktan var olup olmadığı tartışılabilir. Veya Adem'in yoktan var edilip edilmediği. Böyle bir tartışmada dini argümanlar 3.f maddesi gereği yok hükmünde olacaktır. Dolaysıyla dini argümana sahip çıkan tarafın da bilimsel methodlara başvurması gerekecektir. Dini argümana karşı argüman getiren kişi de muhatabının dini inançlarına referans vermez, saldırmaz.
+       Çoğu inanç sisteminin mantıklı olmak gibi bir iddiası yoktur. Bu tür inançları mantıken tartışmanın bir anlamı da yoktur. Bazı inanç sistemlerinin mantıklı olmak iddiası vardır. Bunları tartışırken inanç sistemi değil de önerdiği olgu tartışılır. Çünkü akli olduğu iddia edilse bile inananlar kalben inanır, aklen değil. Dolaysıyla inancını tartışmak ancak kalbini kırarak mümkün olacaktır. Böyle bir tartışma sağlıklı değildir. Örneğin İslam dini akli olduğunu iddia eder. İslam dini değil ancak örneğin evrenin yoktan var olup olmadığı tartışılabilir. Veya Adem'in yoktan var edilip edilmediği. Böyle bir tartışmada dini argümanlar 3.f maddesi gereği yok hükmünde olacaktır. Dolaysıyla dini argümana sahip çıkan tarafın da bilimsel methodlara başvurması gerekecektir. Dini argümana karşı argüman getiren kişi de muhatabının dini inançlarına referans vermez, saldırmaz.
 
 - 3.i) Akıl ile nakil çeliştiğinde akla itibar edilir.
 
@@ -52,7 +52,7 @@
 
 - 4.a) Tartışmada şahıslar hedef alınmaz; şahıslara referans vermeden davranışları tartışılır.
 
-       Dini konuları tartışırken takip edilen method burada da uygulanır. Çünkü insanın egosu vardır. Birisinin kendi kişiliği ile ilişkisi akli bir ilişki değildir. O nedenle muhatapların kişilikleri hedef alınmaz. Aksi durum sağlıksız bir tartışma ortamı oluşmasına sebep olur ve gerçeğin ortaya çıkması geçikir. Bu kural tartışmanın konusu olan üçüncü kişiye uygulanmaz.
+       İnsanların egosu vardır. Birisinin kendi kişiliği ile olan ilişkisi aynı inançlarda olduğu gibi akli bir ilişki değildir. O nedenle muhatapların kişilikleri hedef alınmaz. Aksi durum sağlıksız bir tartışma ortamı oluşmasına sebep olur ve gerçeğin ortaya çıkması geçikir. Bu kural tartışmanın bizatihi konusu olan üçüncü şahıslara uygulanmaz.
 
 - 4.b) Tartışma haklı çıkmak veya kazanmak için yapılmaz; doğruyu bulmak için yapılır.
 
