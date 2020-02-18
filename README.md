@@ -37,32 +37,48 @@
 - 3.f) Doğaları gereği ispat edilemez nitelikte olan bilgiler yok hükmündedir.
 
        Menkıbeler, gaybi bilgiler, rüyalar vs... delil olarak gösterilemez.
+       
+- 3.g) Huzura getirilmeyen bilgiler yok hükmündedir.
 
-- 3.g) Meşhur olmuş veya toplumda çokça tekrarlanan bilgilerin doğru olduğu varsayılmaz, onlar da ispata tabidir.
+       Çok şey biliyorum ama paylaşamam gibi ezoterik bilgiler yok hükmündedir.
+
+- 3.h) Meşhur olmuş veya toplumda çokça tekrarlanan bilgilerin doğru olduğu varsayılmaz, onlar da ispata tabidir.
 
        Popüler bilginin doğru olduğu varsayılmaz, ilk kez duyuluyormuş gibi davranılır. Örneğin yumurta kolestrole sebep oluyormuş gibi halk arasında veya TV'lerde sıkca tekrarlanan bilgiler.
+       
+- 3.i) İddianın kendisinden olmayan kusurlar iddia sahibinin aleyhine kullanılamaz.
 
-- 3.h) İnançlar doğrudan tartışılmaz. İnançlara ait meseleler inanç bağlamından koparılarak tartışılır.
+       Muhatabın geçmişteki yanlışları, mevcut durmu veya iddiasını sunarken ki kusurları iddiasına halel getirmez.
+       
+- 3.j) Başkalarının yanlışı iddia sahibinin yanlışını görece hafifletmez.
+
+       Yanlışlar 'mutlak' doğru adına sorgular. Başkalarının daha kötü yanlışları, tartışmada sorgulanan yanlışa görece üstünlük sağlamaz.
+       
+- 3.k) Bir yanlışı düzeltmek için yapılmış başka bir yanlış haklı gösterilemez.
+
+       İki yanlış bi doğru etmez.
+       
+- 4.a) İnançlar doğrudan tartışılmaz. İnançlara ait meseleler inanç bağlamından koparılarak tartışılır.
 
        Çoğu inanç sisteminin mantıklı olmak gibi bir iddiası yoktur. Bu tür inançları mantıken tartışmanın bir anlamı da yoktur. Bazı inanç sistemlerinin mantıklı olmak iddiası vardır. Bunları tartışırken inanç sistemi değil de önerdiği olgu tartışılır. Çünkü akli olduğu iddia edilse bile inananlar kalben inanır, aklen değil. Dolaysıyla inancını tartışmak ancak kalbini kırarak mümkün olacaktır. Böyle bir tartışma sağlıklı değildir. Örneğin İslam dini akli olduğunu iddia eder. İslam dini değil ancak örneğin evrenin yoktan var olup olmadığı tartışılabilir. Veya Adem'in yoktan var edilip edilmediği. Böyle bir tartışmada dini argümanlar 3.f maddesi gereği yok hükmünde olacaktır. Dolaysıyla dini argümana sahip çıkan tarafın da bilimsel methodlara başvurması gerekecektir. Dini argümana karşı argüman getiren kişi de muhatabının dini inançlarına referans vermez, saldırmaz.
 
-- 3.i) Akıl ile nakil çeliştiğinde akla itibar edilir.
+- 4.b) Akıl ile nakil çeliştiğinde akla itibar edilir.
 
        Nakil yani nesilden nesile iletilen bilginin yolda değişmesi kuvvetle muhtemeldir. Eğer nakledilen şey akılla çelişiyorsa akıla itibar edilir. Örneğin Kanuni Sultan Süleyman'ın Batman'da av yaparken ayağını kırdığı gibi bir haber gelse biz Kanuni'nin Batman'da yaşamadığını bildiğimiz için habere itibar etmeyiz.
 
-- 4.a) Tartışmada şahıslar hedef alınmaz; şahıslara referans vermeden davranışları tartışılır.
+- 5.a) Tartışmada şahıslar hedef alınmaz; şahıslara referans vermeden davranışları tartışılır.
 
        İnsanların egosu vardır. Birisinin kendi kişiliği ile olan ilişkisi aynı inançlarda olduğu gibi akli bir ilişki değildir. O nedenle muhatapların kişilikleri hedef alınmaz. Aksi durum sağlıksız bir tartışma ortamı oluşmasına sebep olur ve gerçeğin ortaya çıkması geçikir. Bu kural tartışmanın bizatihi konusu olan üçüncü şahıslara uygulanmaz.
 
-- 4.b) Tartışma haklı çıkmak veya kazanmak için yapılmaz; doğruyu bulmak için yapılır.
+- 5.b) Tartışma haklı çıkmak veya kazanmak için yapılmaz; doğruyu bulmak için yapılır.
 
        Bu, taraflara bir tavsiyedir, taraflar buna zorlanamaz. Çünkü tarafların niyetini tespit edemeyiz. Tartışma kazanmak için yapılırsa taraflardan biri yanlış olduğunu anladığı anda geri adım atmaz, kazanmak için gerçekleri saklamak dahil her tür oyunu oynar. Ancak amaç gerçeğin ortaya çıkmasını sağlamak olursa karşı tarafın bilmediği bir gerçeği söylerek kendi aleyhine bile olsa gerçeğin ortaya çıkmasına yardımcı olabilir.
 
-- 5.a) Tartışma sonrasında kişiler hakkında yorum yapılmaz, ortaya çıkan fikirler konuşulur.
+- 6.a) Tartışma sonrasında kişiler hakkında yorum yapılmaz, ortaya çıkan fikirler konuşulur.
 
        Bu kural kazanan tarafı ilgilendirdiği gibi dinleyenleri de ilgilendirir. Tartışma sonrasında kaybeden kişi rencide edilirse gelecekteki tartışmalarda taraflar rencide olmamak için kazanmak için sahne alacaklardır ki bu istediğimiz birşey değildir.
 
-- 5.b) Tartışmayı kaybeden tebrik edilir.
+- 6.b) Tartışmayı kaybeden tebrik edilir.
 
        Gerçeğin ortaya çıkmasında kaybeden önemli bir paya sahiptir.
 
