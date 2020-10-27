@@ -52,7 +52,7 @@
        
 - 3.j) Başkalarının yanlışı iddia sahibinin yanlışını görece hafifletmez.
 
-       Yanlışlar 'mutlak' doğru adına sorgular. Başkalarının daha kötü yanlışları, tartışmada sorgulanan yanlışa görece üstünlük sağlamaz.
+       Yanlışlar 'mutlak' doğru adına sorgulanır. Başkalarının daha kötü yanlışları, tartışmada sorgulanan yanlışa görece üstünlük sağlamaz.
        
 - 3.k) Bir yanlışı düzeltmek için yapılmış başka bir yanlış haklı gösterilemez.
 
