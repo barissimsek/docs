@@ -1,6 +1,6 @@
 ## Tartışma Adabı v0.2 ##
 
-- 0) Tartışma hür insanlar arasında olur. Görüşlerini beyan etmekten dolayı başına birşey geleceğini düşünen; can, mal, kariyer veya itibar kaybına uğrayacağını düşünen kişiler tartışmak için hür kabul edilemezler.
+- 0) Tartışma hür insanlar arasında olur. Görüşlerini beyan etmekten dolayı başına bir şey geleceğini düşünen; can, mal, kariyer veya itibar kaybına uğrayacağını düşünen kişiler tartışmak için hür kabul edilemezler.
 
 - 1.a) Tartışma konusu açık bir şekilde iki tarafça ilan edilmeden tartışma başlamaz.
 
