@@ -6,7 +6,7 @@
 
 - 1.b) Debate topic can't be compound; it should be basic and integral.
 
-- 1.c) The topic can't be changed.
+- 1.c) The topic can't change during the course of the debate.
 
 - 2.a) 
 
