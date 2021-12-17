@@ -1,6 +1,6 @@
 ## The Code of Debate v0.2 ##
 
-- 0) Debate can occur only between free people. Those who have fear of life, property, career or reputation can not be deemed free.
+- 0) Debate can occur only between free people. Those who have fear of life, property, career or reputation can not deemed free.
 
 - 1.a) Debate can't start without declaring the topic clearly.
 
