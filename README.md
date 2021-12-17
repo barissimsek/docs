@@ -1,88 +1,54 @@
-## Tartışma Adabı v0.2 ##
+## Code of Debate v0.2 ##
 
-- 0) Tartışma hür insanlar arasında olur. Görüşlerini beyan etmekten dolayı başına bir şey geleceğini düşünen; can, mal, kariyer veya itibar kaybına uğrayacağını düşünen kişiler tartışmak için hür kabul edilemezler.
+- 0) Debate can be only between free people. Those who have fear of life, property, career or reputation can not be deemed free.
 
-- 1.a) Tartışma konusu açık bir şekilde iki tarafça ilan edilmeden tartışma başlamaz.
+- 1.a) Debate can't start without declaring the topic clearly.
 
-       Neyi tartıştığımızı bilelim. İki tarafın da aynı şeyi tartıştığından emin olalım.
+- 1.b) Debate topic can't be compound; it should be basic and integral.
 
-- 1.b) Tartışma konusu basittir bileşik olamaz. Yani başka alt problemlere bölünemez.
+- 1.c) The topic can't be changed.
 
-       Tartışma konusu büyük veya küçük olabilir ancak belirlenmiş bir bakış açısından bakıldığında tek bir argümandan oluşur ve atomik bütünlük gösterir. Örneğin Kanuni Sultan Süleyman'ın oğlu Selim'i öldürtmesinin moral açıdan değerlendirilmesi uygun bir tartışma konusudur. Ancak Kanuni zamanına cerayan eden hadiselerin değerlendirilmesi uygun bir tartışma konusu değildir.
+- 2.a) 
 
-- 1.c) Tartışma bitmeden, bittiği açıkça ilan edilmeden tartışmanın konusu değiştirilmez.
+- 3.a) A graded debate can be only between oppponents and supporters. We can't guarantee others show their best effort.
 
-       Tartışmada birinci amaç gerçeğin ortaya çıkmasını sağlamaktır. Bu nedenle taraflar aynı noktaya atış yaparak birbirinin kalesini devirmeye çalışırlar. Konu değiştirmek, mevcut konu üzerinden tartışmayı kaybedeceğini düşünenlerin bir taktiğidir. Buna izin verilirse kimin argümanının daha kuvvetli olduğu değerlendirilemez, konular dağılır, fikirler bulanıklaşır.
+- 3.b) Parties can get help from outsiders. Goal is not to find who is best, it is to find what is right.
 
-- 2.a) İki taraftan birisi diğer tarafın görüşünü kabul ettiğinde tartışma neticeli sonlanır. İki tarafın da yeni açılım yapamadığı, fikir seviyesinin yerinde saydığı durumda tartışma neticesiz sonlanır. Taraflardan birisi karşı argüman getirmekte zorlandığı durumda tartışma hükmen ve neticeli sonlanır.
+- 3.c) Parties can use humor but they can't weaken the discussion with jokes. Often time people make joke when they run out of arguments.
 
-- 3.a) Tartışma, konunun lehtarları ve aleyhtarları arasında olur.
+- 3.d) Claimant has obligation to prove his claims.
 
-       Konuya taraf olmayanların spor olarak yaptıkları tartışmanın bir anlamı yoktur. Taraflar konuya lehtar veya aleyhtar değilse gerçeğin ortaya çıkması için elinden geleni yapıp yapmadıkları şaibeli olur, dolaysıyla netice güvenilir olmaz.
+- 3.e) Information without reference are deemed as they were absent.
 
-- 3.b) Tartışan kişiler her türlü harici yardımı gizli veya açık kullanabilirler.
+- 3.f) The information that is impossible to prove by nature, is deemed as they were absent.
+ 
+- 3.g) The information that is not disclosed is deemed as it was absent. 
 
-       Kopya çekmek serbesttir. Çünkü kimin daha iyi olduğunu değil neyin doğru olduğunu öğrenmeye çalışıyoruz. Bunun için de her iki tarafın -bilgiye erişim imkanların eşit olmak kaydıyla- bilgiye erişmeleri sınırlandırılmaz.
+       Example: I know a lot of thing but I can't explain...
 
-- 3.c) Tartışmada hiciv, mizah vs… kullanılabilir ancak tartışma sulandırılmaz.
+- 3.h) Anecdotal or popular information are not assumed to be correct. They too have to be proved.
 
-       Özellikle halk arasında 'yağcı' denen tipler mizah yaparak konuyu sulandırır ve yetersizliklerini gizlemeye çalışırlar. Tartışmayı sulandırmak, tartışma konusunu değiştirmek gibidir. Hakikatin tezahür etmesini geciktirir.
+- 3.i) Defects of people can't be used against them if they are not about their claims. 
 
-- 3.d) İddia sahibi iddiasını ispatla, gerekli referansları toplamakla kendi yükümlüdür.
+- 3.j) Oponent's mistakes can't make someone's mistake relatively less faulty.
 
-       Her iddia başlangıçta yanlış kabul edilir. Karşı tarafın iddianın yanlış olduğunu ispat etmesi gerekmez. İddia sahibinin iddiasının doğru olduğunu ispat etmesi gerekir.
+       We question mistakes in the name of the absolute truth. 
 
-- 3.e) Referansı olmayan bilgiler yok hükmündedir.
+- 3.k) A mistake that is made to correct another mistake can't deemed correct.
 
-       İşkembe-i kübra referans değildir.
-
-- 3.f) Doğaları gereği ispat edilemez nitelikte olan bilgiler yok hükmündedir.
-
-       Menkıbeler, gaybi bilgiler, rüyalar vs... delil olarak gösterilemez.
+       Two mistakes don't make up one truth.
        
-- 3.g) Huzura getirilmeyen bilgiler yok hükmündedir.
+- 4.a) Believes can't be dicussed directly. You can debate them after you remove them from their religios context.
 
-       Çok şey biliyorum ama paylaşamam gibi ezoterik bilgiler yok hükmündedir.
+- 4.b) When intelligence and the transferred information contradict each other, the intelligence should be the one to obey.
 
-- 3.h) Meşhur olmuş veya toplumda çokça tekrarlanan bilgilerin doğru olduğu varsayılmaz, onlar da ispata tabidir.
+- 5.a) People can't be targeted in a debate. Act of people should be debated, not people themselves.
 
-       Popüler bilginin doğru olduğu varsayılmaz, ilk kez duyuluyormuş gibi davranılır. Örneğin yumurta kolestrole sebep oluyormuş gibi halk arasında veya TV'lerde sıkca tekrarlanan bilgiler.
-       
-- 3.i) İddianın kendisinden olmayan kusurlar iddia sahibinin aleyhine kullanılamaz.
+- 5.b) A debate shall only started when parties intent to find the truth, not to be winner.
 
-       Muhatabın geçmişteki yanlışları, mevcut durmu veya iddiasını sunarken ki kusurları iddiasına halel getirmez.
-       
-- 3.j) Başkalarının yanlışı iddia sahibinin yanlışını görece hafifletmez.
+- 6.a) After a debate, only thoughts should be spoken not people.
 
-       Yanlışlar 'mutlak' doğru adına sorgulanır. Başkalarının daha kötü yanlışları, tartışmada sorgulanan yanlışa görece üstünlük sağlamaz.
-       
-- 3.k) Bir yanlışı düzeltmek için yapılmış başka bir yanlış haklı gösterilemez.
+- 6.b) Loser should be congratulated to help the truth to surface. 
 
-       İki yanlış bi doğru etmez.
-       
-- 4.a) İnançlar doğrudan tartışılmaz. İnançlara ait meseleler inanç bağlamından koparılarak tartışılır.
-
-       Çoğu inanç sisteminin mantıklı olmak gibi bir iddiası yoktur. Bu tür inançları mantıken tartışmanın bir anlamı da yoktur. Bazı inanç sistemlerinin mantıklı olmak iddiası vardır. Bunları tartışırken inanç sistemi değil de önerdiği olgu tartışılır. Çünkü akli olduğu iddia edilse bile inananlar kalben inanır, aklen değil. Dolaysıyla inancını tartışmak ancak kalbini kırarak mümkün olacaktır. Böyle bir tartışma sağlıklı değildir. Örneğin İslam dini akli olduğunu iddia eder. İslam dini değil ancak örneğin evrenin yoktan var olup olmadığı tartışılabilir. Veya Adem'in yoktan var edilip edilmediği. Böyle bir tartışmada dini argümanlar 3.f maddesi gereği yok hükmünde olacaktır. Dolaysıyla dini argümana sahip çıkan tarafın da bilimsel methodlara başvurması gerekecektir. Dini argümana karşı argüman getiren kişi de muhatabının dini inançlarına referans vermez, saldırmaz.
-
-- 4.b) Akıl ile nakil çeliştiğinde akla itibar edilir.
-
-       Nakil yani nesilden nesile iletilen bilginin yolda değişmesi kuvvetle muhtemeldir. Eğer nakledilen şey akılla çelişiyorsa akıla itibar edilir. Örneğin Kanuni Sultan Süleyman'ın Batman'da av yaparken ayağını kırdığı gibi bir haber gelse biz Kanuni'nin Batman'da yaşamadığını bildiğimiz için habere itibar etmeyiz.
-
-- 5.a) Tartışmada şahıslar hedef alınmaz; şahıslara referans vermeden davranışları tartışılır.
-
-       İnsanların egosu vardır. Birisinin kendi kişiliği ile olan ilişkisi aynı inançlarda olduğu gibi akli bir ilişki değildir. O nedenle muhatapların kişilikleri hedef alınmaz. Aksi durum sağlıksız bir tartışma ortamı oluşmasına sebep olur ve gerçeğin ortaya çıkması geçikir. Bu kural tartışmanın bizatihi konusu olan üçüncü şahıslara uygulanmaz.
-
-- 5.b) Tartışma haklı çıkmak veya kazanmak için yapılmaz; doğruyu bulmak için yapılır.
-
-       Bu, taraflara bir tavsiyedir, taraflar buna zorlanamaz. Çünkü tarafların niyetini tespit edemeyiz. Tartışma kazanmak için yapılırsa taraflardan biri yanlış olduğunu anladığı anda geri adım atmaz, kazanmak için gerçekleri saklamak dahil her tür oyunu oynar. Ancak amaç gerçeğin ortaya çıkmasını sağlamak olursa karşı tarafın bilmediği bir gerçeği söylerek kendi aleyhine bile olsa gerçeğin ortaya çıkmasına yardımcı olabilir.
-
-- 6.a) Tartışma sonrasında kişiler hakkında yorum yapılmaz, ortaya çıkan fikirler konuşulur.
-
-       Bu kural kazanan tarafı ilgilendirdiği gibi dinleyenleri de ilgilendirir. Tartışma sonrasında kaybeden kişi rencide edilirse gelecekteki tartışmalarda taraflar rencide olmamak için kazanmak için sahne alacaklardır ki bu istediğimiz birşey değildir.
-
-- 6.b) Tartışmayı kaybeden tebrik edilir.
-
-       Gerçeğin ortaya çıkmasında kaybeden önemli bir paya sahiptir.
-
-- 6.c) Tartışmayı kaybeden yanlış bir fikirden kurtulduğu ve doğruyu öğrendiği için sevinir.
+- 6.c) Loser feels happy to has gotten rid of a misconception or misinformation.
 
