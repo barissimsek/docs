@@ -28,7 +28,7 @@
 
 - 3.h) Anecdotal or popular information are not assumed to be correct. They too have to be proved.
 
-- 3.i) Defects of people can't be used against them if they are not about their claims. 
+- 3.i) A person's previous mistakes don't degrade person himself. Defects of people can't be used against them if they are not about their claims.
 
 - 3.j) Oponent's mistakes can't make someone's mistake relatively less faulty.
 
