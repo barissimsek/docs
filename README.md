@@ -24,7 +24,7 @@
  
 - 3.g) The information that is not disclosed is deemed as it was absent. 
 
-       Example: I know a lot of thing but I can't explain...
+       Example: I know a lot of thing but I can't share...
 
 - 3.h) Anecdotal or popular information are not assumed to be correct. They too have to be proved.
 
