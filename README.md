@@ -10,7 +10,9 @@
 
 - 2.a) 
 
-- 3.a) A graded debate can be only between oppponents and supporters. We can't guarantee others show their best effort.
+- 3.a) A graded debate can be only between oppponents and supporters. We can't guarantee that others put their best effort.
+
+       Debate is not an entertainment sport.
 
 - 3.b) Parties can get help from outsiders. Goal is not to find who is best, it is to find what is right.
 
