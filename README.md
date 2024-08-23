@@ -40,7 +40,7 @@ _Two wrongs don't make a right._
 
 3.a) Beliefs cannot be discussed directly. They can only be debated once removed from their religious context.
 
-3.b) When intelligence and transferred information contradict each other, intelligence should prevail.
+3.b) When intelligence and oral information contradict each other, intelligence should prevail.
 
 4.a) People cannot be targeted in a debate. The actions of people should be debated, not the people themselves.
 
