@@ -1,56 +1,53 @@
-## The Code of Debate v0.2 ##
+# The Code of Debate v0.2
 
-- 0) Debate can occur only between free people. Those who have fear of life, property, career or reputation can not deemed free.
+0) Debate can occur only between free people. Those who fear for their life, property, career, or reputation cannot be deemed free.
 
-- 1.a) Debate can't start without declaring the topic clearly.
+1.a) A debate cannot start without a clearly declared topic.
 
-- 1.b) Debate topic can't be compound; it should be basic and integral.
+1.b) The debate topic cannot be compound; it should be simple and integral.
 
-- 1.c) The topic can't change during the course of the debate.
+1.c) The topic cannot change during the course of the debate.
 
-- 2.a) 
+2.a) A graded debate can only occur between opponents and supporters. We cannot guarantee that others will put in their best effort.
 
-- 3.a) A graded debate can be only between oppponents and supporters. We can't guarantee that others put their best effort.
+_Debate is not an entertainment sport._
 
-       Debate is not an entertainment sport.
+2.b) Parties can seek help from outsiders. The goal is not to determine who is the best but to find what is right.
 
-- 3.b) Parties can get help from outsiders. Goal is not to find who is best, it is to find what is right.
+2.c) Humor can be used, but it must not weaken the discussion. Often, people resort to jokes when they run out of arguments.
 
-- 3.c) Parties can use humor but they can't weaken the discussion with jokes. Often time people make joke when they run out of arguments.
+2.d) The claimant has the obligation to prove their claims.
 
-- 3.d) Claimant has obligation to prove his claims.
+2.e) Information without references is deemed absent.
 
-- 3.e) Information without reference are deemed as they were absent.
+2.f) Information that is impossible to prove by nature is deemed absent.
 
-- 3.f) The information that is impossible to prove by nature, is deemed as they were absent.
- 
-- 3.g) The information that is not disclosed is deemed as it was absent. 
+2.g) Information that is not disclosed is deemed absent.
 
-       Example: I know a lot of thing but I can't share...
+_Example: "I know a lot of things, but I can't share them..."_
 
-- 3.h) Anecdotal or popular information are not assumed to be correct. They too have to be proved.
+2.h) Anecdotal or popular information is not assumed to be correct; it must also be proven.
 
-- 3.i) A person's previous mistakes don't degrade person himself. Defects of people can't be used against them if they are not about their claims.
+2.i) A person's previous mistakes do not degrade the person themselves. Defects of people cannot be used against them if they are unrelated to their claims.
 
-- 3.j) Oponent's mistakes can't make someone's mistake relatively less faulty.
+2.j) An opponent's mistakes do not make another's mistake relatively less faulty.
 
-       We question mistakes in the name of the absolute truth. 
+_We question mistakes in the name of absolute truth._
 
-- 3.k) A mistake that is made to correct another mistake can't deemed correct.
+2.k) A mistake made to correct another mistake cannot be deemed correct.
 
-       Two mistakes don't make up one truth.
-       
-- 4.a) Believes can't be dicussed directly. You can debate them after you remove them from their religios context.
+_Two wrongs don't make a right._
 
-- 4.b) When intelligence and the transferred information contradict each other, the intelligence should be the one to obey.
+3.a) Beliefs cannot be discussed directly. They can only be debated once removed from their religious context.
 
-- 5.a) People can't be targeted in a debate. Act of people should be debated, not people themselves.
+3.b) When intelligence and transferred information contradict each other, intelligence should prevail.
 
-- 5.b) A debate shall only started when parties intent to find the truth, not to be winner.
+4.a) People cannot be targeted in a debate. The actions of people should be debated, not the people themselves.
 
-- 6.a) After a debate, only thoughts should be spoken not people.
+4.b) A debate should only be started when parties intend to seek the truth, not to win.
 
-- 6.b) Loser should be congratulated to help the truth to surface. 
+5.a) After a debate, only ideas should be discussed, not individuals.
 
-- 6.c) Loser feels happy to has gotten rid of a misconception or misinformation.
+5.b) The loser should be congratulated for helping the truth to surface.
 
+5.c) The loser should feel happy to have been rid of a misconception or misinformation.
